@@ -31,4 +31,4 @@ untuk membuat jwt secret.
 User Guide :
 1. Lakukan registrasi/login dengan memasukka nama,email,dan password. untuk mendapatkan respon berupa token. (https://imgur.com/NGLO3Rh)
 2. Untuk mengakses api dengan middleware jwt:auth, kita diharuskan memasukkan token yg kita dapatkan pada bagian Auth dengan tipe
-Bearer Token. (https://imgur.com/Evo5SHB)
+Bearer Token. (https://imgur.com/Evo5SHB) 
