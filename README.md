@@ -1,5 +1,12 @@
 Project Brief Explanation.
 
+Tech Interview test.
+Creating an API for
+- User Registration,Login
+- Creating Items
+- Like item
+- Displaying item count
+
 Goal :
 1. A database that has been normalized in the process of the making
 2. Proper use of Laravel's migration, seeding, model, and controller
